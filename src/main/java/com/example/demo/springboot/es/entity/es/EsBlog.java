@@ -39,4 +39,5 @@ public class EsBlog {
             pattern = "yyyy-MM-dd HH:mm:ss||yyyy-MM-dd||epoch_millis")
     private Date updateTime;
 
+
 }
